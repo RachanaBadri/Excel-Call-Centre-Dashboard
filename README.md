@@ -38,7 +38,7 @@ This one was genuinely tough to build, and I learned a lot doing it. Getting the
 - `dashboard-overview.png` — a screenshot of the dashboard for a quick preview without downloading the file
 
 ## Preview
-![Dashboard overview](dashboard-overview.png)
+![Dashboard overview](Dashboard-overview.png)
 
 ## Credit
 Built following a call centre dashboard project from the [Chandoo](https://www.youtube.com/user/ExcelTutorials) YouTube channel. I worked through it myself, understood the logic behind the pivots and slicers, and wrote up my own notes above.

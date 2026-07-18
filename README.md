@@ -31,7 +31,10 @@ There's a second table with customer details: customer ID, gender, age, and city
 - **Assets** — icons and images used on the dashboard (like the call icon on the KPI cards)
 
 ## What I found
-This one was genuinely tough to build, and I learned a lot doing it. Getting the slicer to connect across multiple pivot tables and charts so everything updates together took real trial and error. I also learned how to work with different chart types (bar, line, pie), how to place and style shapes and icons on the dashboard, and how to line everything up so it actually looks like a dashboard instead of a pile of separate charts.
+- R04 emerged as a performance outlier — lowest call volume and lowest total revenue among all reps,despite strong overall service quality (~75% of calls rated 45)
+- R03 generated the highest revenue-per-call (~$101), showing call volume alone doesn't drive performance
+- Together, these patterns point to a targeted coaching opportunity for R04 rather than a team-wide issue
+- This one was genuinely tough to build, and I learned a lot doing it. Getting the slicer to connect across multiple pivot tables and charts so everything updates together took real trial and error. I also learned how to work with different chart types (bar, line, pie), how to place and style shapes and icons on the dashboard, and how to line everything up so it actually looks like a dashboard instead of a pile of separate charts.
 
 ## Files in this repo
 - `EXCEL project - Call Centre.xlsx` — the full interactive dashboard (open in Excel to use the slicers)
